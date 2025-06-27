@@ -6,7 +6,7 @@ I'm an aspiring Data Engineer, passionate about building data-driven solutions a
 - 🌱 I’m learning: **SQL, Python, Spark, Kafka, Airflow, AWS, Power BI**
 - 👯 I’m looking to collaborate on: **Data engineering and analytics projects**
 - 💬 Ask me about: **Data pipelines, automation, and learning paths for data engineering**
-- 📫 How to reach me: **[Your Email or LinkedIn]**
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/mrlukuman)
 - ⚡ Fun fact: **I love transforming raw data into actionable insights!**
 
 ## 🛠️ Languages and Tools
