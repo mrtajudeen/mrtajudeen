@@ -23,9 +23,9 @@ I'm an aspiring Data Engineer, passionate about building data-driven solutions a
 
 ## 🚀 Projects Gallery
 
-- [**Data Pipeline Project**](https://github.com/mrtajudeen/data-pipeline-project)
-- [**Real-Time Dashboard**](https://github.com/mrtajudeen/real-time-dashboard)
-- [**Data Warehouse Automation**](https://github.com/mrtajudeen/data-warehouse-automation)
+- [**Data Pipeline Project**](https://github.com/mrtajudeen/data-pipeline-project) - (Coming Soon!!)
+- [**Real-Time Dashboard**](https://github.com/mrtajudeen/real-time-dashboard) - (Coming Soon!!)
+- [**Data Warehouse Automation**](https://github.com/mrtajudeen/data-warehouse-automation) - (Coming Soon!!)
 
 ---
 
