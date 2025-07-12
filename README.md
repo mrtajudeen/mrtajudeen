@@ -1,6 +1,6 @@
 # Hi there, I'm Tajudeen 👋
 
-I'm an aspiring Data Engineer, passionate about building data-driven solutions and automations.
+I'm an aspiring Data Analyst/Engineer, passionate about building data-driven solutions and automations.
 
 - 🔭 I’m currently working on: **Mastering data tools and building my portfolio**
 - 🌱 I’m learning: **SQL, Python, Spark, Kafka, Airflow, AWS, Power BI**
