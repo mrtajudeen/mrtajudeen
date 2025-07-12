@@ -18,6 +18,7 @@ I'm an aspiring Data Engineer, passionate about building data-driven solutions a
 ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=fff)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=fff)
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=fff)
+![Databricks](https://img.shields.io/badge/Databricks-181825?style=flat-square&logo=databricks&logoColor=fff)
 
 ---
 
