@@ -6,7 +6,7 @@ I'm an aspiring Data Analyst/Engineer, passionate about building data-driven sol
 - 🌱 I’m learning: **SQL, Python, Spark, Kafka, Airflow, AWS, Power BI**
 - 👯 I’m looking to collaborate on: **Data engineering and analytics projects**
 - 💬 Ask me about: **Data pipelines, automation, and learning paths for data engineering**
-- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/mrlukuman)
+- 📫 How to reach me: [**LinkedIn**](https://www.linkedin.com/in/tajudeenlukuman)
 - ⚡ Fun fact: **I love transforming raw data into actionable insights!**
 
 ## 🛠️ Languages and Tools
@@ -35,5 +35,5 @@ I'm an aspiring Data Analyst/Engineer, passionate about building data-driven sol
 ![Tajudeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tajudeenlukuman&show_icons=true&theme=radical)
 
 <!--
-**mrtajudeen/mrtajudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**tajudeenlukuman/tajudeenlukuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
