@@ -24,9 +24,9 @@ I'm an aspiring Data Analyst/Engineer, passionate about building data-driven sol
 
 ## 🚀 Projects Gallery
 
-- [**Data Pipeline Project**](https://github.com/mrtajudeen/data-pipeline-project) - (Coming Soon!!)
-- [**Real-Time Dashboard**](https://github.com/mrtajudeen/real-time-dashboard) - (Coming Soon!!)
-- [**Data Warehouse Automation**](https://github.com/mrtajudeen/data-warehouse-automation) - (Coming Soon!!)
+- [**Health Data Analysis**](https://github.com/tajudeenlukuman/Health-Data-Analysis)
+- [**Companies Layoff Analysis**](https://github.com/tajudeenlukuman/SQL-Project-Exploratory-Data-Analysis-Layoffs)
+- [**Layoffs Data Cleaning Project**](https://github.com/tajudeenlukuman/SQL-Project-Data-Cleaning)
 
 ---
 
