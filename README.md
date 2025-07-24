@@ -32,7 +32,7 @@ I'm an aspiring Data Analyst/Engineer, passionate about building data-driven sol
 
 ## 📈 GitHub Stats
 
-![Tajudeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=mrtajudeen&show_icons=true&theme=radical)
+![Tajudeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=tajudeenlukuman&show_icons=true&theme=radical)
 
 <!--
 **mrtajudeen/mrtajudeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
