@@ -22,7 +22,7 @@ I'm an aspiring Data Analyst/Engineer, passionate about building data-driven sol
 
 ---
 
-## 🚀 Projects Gallery
+## 🚀 My Projects
 
 - [**Health Data Analysis**](https://github.com/tajudeenlukuman/Health-Data-Analysis)
 - [**Companies Layoff Analysis**](https://github.com/tajudeenlukuman/SQL-Project-Exploratory-Data-Analysis-Layoffs)
